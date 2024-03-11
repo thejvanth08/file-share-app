@@ -1,0 +1,177 @@
+
+doubts:
+
+- how px unit is relative to device screen
+- skew in css
+- object-position in css
+- vim editor
+- execution flow of js
+- cors
+- RIGHT SHIFT ( >> ) vs ZERO-FILL RIGHT SHIFT ( >>> )
+- js execution flow
+- custom iterable
+- call, apply, bind
+- micro vs macro tasks
+- imperative vs declarative paradigms
+- how to pass default value in createContext
+- arbitrary group/peers in tailwind
+- code splitting
+- hot reload 
+- polyfill vs transpiler
+- lexical structure
+- ast
+- ecosystem ?
+- modules, packages, libs, frameworks
+- bash
+- about libuv
+- browser-sync for auto reload in browser while using ejs
+- send data to partial from route handler
+- res.redirect()
+- dotenv package
+- console.error
+- relation b/w mongoose & mongodb
+- ws-security
+- wsdl file in soap api
+- uri vs url vs urn
+- how 80 is default port for http, as server can serve many websites & how it will differentiate
+- # in url (hashcode) or fragment
+- query operators in mongodb & mongoose
+- regex 
+- numeric filter functionality in store api backend project
+- debugging vs error handling
+- bugs vs errors
+- headers api
+- x-api-key
+- cors
+- curl cmd
+- .nvmrc file
+- web crawler & project
+- find docs (all) in mongodb driver returns cursor 
+- res.download in express
+*** --- *** --- 
+
+web-doubts
+
+* speechly api
+* uri vs url vs urn
+* clip-path css
+* how px depends on devices?
+* skew css
+* -webkit-
+* object-position
+* >> vs >>>
+* bitwise - 32, number - 64 bits ?
+* obj to primitive
+* 0.1 + 0.2 ?
+* ieee 754 format
+* create custom iterable
+* lexical env
+* closurew
+* function binding
+* mixins
+* execution (flow) of js in browser
+* Promise funcs
+* Promisification
+* modules in depth
+* lib vs framework
+* mvc arch
+* cors policy
+* aria web
+* inset in css
+* prefers-color-scheme
+* prefers-reduced-motion
+* life cycle of component in react
+* bind in js
+* reconciliation in react
+* web doubts
+js:
+- web worker
+- skew in css
+- how px is relative to screen of a device (dpi)
+- obj to primitive conversion
+- framework vs lib
+- custom iterable
+- lexical env
+- closure
+- func decorators
+- binding
+- html obj collection
+- class prototype working
+- mixin
+- generators
+- error handling difference in async vs normal promise
+- microtask vs macrotask
+- execution flow of js like compilation, interpretation, etc.
+
+----
+react:
+- auto-batch
+- error handling in promises b/w axios & fetch
+- side effects 
+- how console.log() is a side effecct ?
+- state -> retain the data between renders
+- setting state as a snapshot
+- queueing series of state updates
+- forwardRefs
+- abort controller
+- @supports css
+- javascript + swc means
+
+
+--- 
+- how web worker works 
+- layout engine in browser
+- temporal dead zone
+- var vs let: hoisting
+- es7 snippets tool
+- strict mode in react
+- controlled vs uncontrolled inputs in form
+- context api default value
+- m: single source of truth, rentless
+- HTMLAnchorElement and HTMLImageElement: means wat generally ?
+- content policy in website
+- aom in dev tools
+- types of layout like holy grail layout
+- enumurated 
+- learn emmet
+- login, signup, signin
+- try out copy event in browser and send msg to server when user presses it
+- also change the srcipt to unnotice the event and again demo it whether it's sending msg to server or not
+- mode:cors in fetch req
+- jsdelivr vs unpkg
+- credential in fetch or axios
+- timeout in axios
+- comply means ?
+- imperative vs declarative functional programming
+- compose, pipe, throttle funcs
+- why adding event listeners to elements or refering elements only after DOMContentLoaded
+- textContent() in dom
+- plugin in tailwind & use of "&" in selectors 
+- setTimeout() for waiting setState() ****doubt****
+
+
+
+--- react---
+- custom hook creation
+- 
+
+
+- base 64
+- fragmentation in browser
+- getBoundingClientRect()
+- 
+ 
+
+-- db
+- sharding in mongodb
+- business intelligence
+- atomicity 
+- populate() in mongoose
+- n
+
+-- backend project
+- next() in route handler (for handling error)
+- asyncWrapper
+- replace() with cb
+- compare() from bycrpt
+- 
